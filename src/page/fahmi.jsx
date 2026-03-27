@@ -47,7 +47,7 @@ function App() {
 
                                 {/* PROJECT 1 */}
                                 <div>
-                                    <h3 className="font-bold text-lg">Web Kasir (Point of Sale)</h3>
+                                    <h3 className="font-bold text-lg">Web Kasir Tugas Akhir</h3>
                                     <p className="text-sm text-gray-400">2024</p>
 
                                     <p className="text-gray-300 mt-1">
@@ -69,7 +69,7 @@ function App() {
 
                                 {/* PROJECT 2 */}
                                 <div>
-                                    <h3 className="font-bold text-lg">Design Web PPDB</h3>
+                                    <h3 className="font-bold text-lg">Design Web PPDB Tulungagung 2024</h3>
                                     <p className="text-sm text-gray-400">2024</p>
 
                                     <p className="text-gray-300 mt-1">
