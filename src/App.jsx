@@ -1,8 +1,9 @@
+import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Home from "./page/Home";
-import Fariz from "./page/fariz";
-import Fahmi from "./page/fahmi";
-import Bagas from "./page/bagas";
+import Fariz from "./page/Fariz";
+import Fahmi from "./page/Fahmi";
+import Bagas from "./page/Bagas";
 
 function App() {
   return (

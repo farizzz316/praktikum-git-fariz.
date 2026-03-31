@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaGithub, FaInstagram, FaLinkedin, FaEnvelope, FaWhatsapp } from "react-icons/fa";
 
-function App() {
+function Fahmi() {
     return (
         <div className="min-h-screen bg-gray-950 text-white p-6">
             <div className="max-w-6xl mx-auto">
@@ -189,4 +189,4 @@ function App() {
     );
 }
 
-export default App;
+export default Fahmi;

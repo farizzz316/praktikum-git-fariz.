@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App() {
+function Fariz() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-800">
       {/* Navbar */}
@@ -90,4 +90,4 @@ function App() {
   );
 }
 
-export default App;
+export default Fariz;
